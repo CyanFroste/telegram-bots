@@ -1,2 +1,3 @@
-# telegram-bots
-Collection of Telegram bots made by me
+# Mona
+
+An anime tracking bot prototype

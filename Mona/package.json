@@ -1,0 +1,19 @@
+{
+	"name": "mona",
+	"version": "1.0.0",
+  "main": "bot.js",
+  "private": true,
+	"scripts": {
+		"start": "node bot",
+		"dev": "nodemon bot",
+		"test": "node tests/index"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"anilist-node": "^1.6.0",
+		"axios": "^0.21.0",
+		"telegraf": "^3.38.0"
+	}
+}
